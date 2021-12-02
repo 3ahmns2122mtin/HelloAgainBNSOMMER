@@ -16,6 +16,7 @@ WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgainBN
 
 ### Visuelle Einblicke in das Projekt: 
 
+![bnsommer-helloagain](https://user-images.githubusercontent.com/28704310/144481138-324101b9-b063-47c7-a36d-885c846809dc.JPG)
 
 ### Notwendiges für die Ausführung: 
 Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
