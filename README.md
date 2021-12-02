@@ -11,7 +11,7 @@ Die Benennung der Objekte in der Hierarchy, wie auch die Benennung der Elemente 
 Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
+WebGL Referenzauflösung (960x600) https://3ahmns2122mtin.github.io/HelloAgainBNSOMMER/
 
 
 ### Visuelle Einblicke in das Projekt: 
