@@ -12,10 +12,10 @@ Windows 10, Unity 2020.3.18f1, Visual Studio Version 2019 Community
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600) 
-https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
+
 
 ### Visuelle Einblicke in das Projekt: 
-![sc-ue01helloagain](https://user-images.githubusercontent.com/28704310/132992326-6bd52f52-8af3-48e5-8406-060d0270f158.JPG)
+
 
 ### Notwendiges für die Ausführung: 
 Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
@@ -37,11 +37,11 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 - [x] Im Ornder Assets > MyGame  einen Ordner Sprites anlegen, alle im Projekt verwendeten Sprites, die wir hinzufügen, dort ablegen.
 - [x] In das Image GameObject mit Namen Background ein Sprite in die Image Source ziehen 
 - [x] Assets und ProjectSettings Folders auf GitHub laden
-- [x] Readme updaten
+- [ ] Readme updaten
 - [x] WebGL exportieren in HelloAgain-yourKürzel > docs
 - [x] Upload auf GitHub
-- [x] WebGL Pages Einstellen
-- [x] Link in Readme einfügen
+- [ ] WebGL Pages Einstellen
+- [ ] Link in Readme einfügen
 
 ### Optionale Aufgabenstellung:
 - [ ] Grafische Aufbereitung des Projekts
@@ -63,8 +63,6 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 |     x        |              |            | WebGL exportieren                                                                     |
 |     x        |              |            | WebGL auf GitHub Pages veröffentlichen                                                |
 
-Limitations:
-  1) Problem
-  2) was ist das Problem
+### Limitations:
 
-Copyright by smeerws
+
